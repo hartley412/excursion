@@ -1,0 +1,31 @@
+* {
+    background: black;
+    color: white;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+.body-title {
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.body-subtitle {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.copyright {
+    color: gray;
+    text-align: right;
+}
